@@ -1,2 +1,1 @@
-# hexlet-js
-js-environment chapter
+Мой первый проект на Хекслете
